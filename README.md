@@ -43,7 +43,7 @@ We are going to need UnitTest but this repo does not using test
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/armanriazi/Workflow-Function-Container-ACO/wiki) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO/wiki) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
@@ -62,4 +62,4 @@ This project is licensed under the NajafAbad university branch of compuer Licens
 # Related Repositories
 [Workflow-Function-Container-Plus](https://github.com/armanriazi/Workflow-Function-Container-Plus)
 [Cloudsim-Workflow-Function-Container](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container)
-# https://github.com/armanriazi/Workflow-Function-Container-ACO/wiki
+# https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO/wiki
