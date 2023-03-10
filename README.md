@@ -1,6 +1,8 @@
 # Cloudsim-Workflow-Function-Container-LoadBalancing_ACO
 Modeling And Simulation Of Running Workflow In the Containers
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7715653.svg)](https://doi.org/10.5281/zenodo.7715653)
+
 [Final Project&PDF Thesis](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO)
 # Workflow-Function-Container-ACO
 
