@@ -55,13 +55,16 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Arman Riazi** - *Initial work* - [ArmanRiazi](https://github.com/armanriazi/)
 
+# Related Repositories
+
+[Workflow-Function-Container-Plus](https://github.com/armanriazi/Workflow-Function-Container-Plus)
+
+[Cloudsim-Workflow-Function-Container](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container)
+
+[Cloudsim-Workflow-Function-Container-ACO](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO/wiki)
+
 ## License
 
 This project is licensed under the NajafAbad university branch of compuer License - see the [LICENSE.md](LICENSE.md) file for details.
+[Fossa](https://app.fossa.com/reports/3aa0a48c-bec3-42f8-b150-6bc26a0b3c8d)
 *Make it with ❤️ for you
-## Acknowledgments
-**
-# Related Repositories
-[Workflow-Function-Container-Plus](https://github.com/armanriazi/Workflow-Function-Container-Plus)
-[Cloudsim-Workflow-Function-Container](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container)
-# https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO/wiki
