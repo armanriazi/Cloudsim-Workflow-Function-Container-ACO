@@ -35,7 +35,7 @@ We are going to need Maven but this repo does not using Maven
 
 ## Running the tests
 
-We are going to need UnitTest but this repo does not using test
+For future work, We will require Unit/Integrated Test.
 
 ## Builted With
 
