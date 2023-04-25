@@ -3,7 +3,7 @@ Modeling And Simulation Of Running Workflow In the Containers
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7715653.svg)](https://doi.org/10.5281/zenodo.7715653)
 
-
+[![](https://tokei.rs/b1/github/armanriazi/Cloudsim-Workflow-Function-Container-ACO)](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO).
 
 [Final Project&PDF Thesis](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO)
 # Workflow-Function-Container-ACO
