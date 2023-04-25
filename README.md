@@ -4,6 +4,8 @@ Modeling And Simulation Of Running Workflow In the Containers
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7715653.svg)](https://doi.org/10.5281/zenodo.7715653)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farmanriazi%2FCloudsim-Workflow-Function-Container-ACO.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Farmanriazi%2FCloudsim-Workflow-Function-Container-ACO?ref=badge_shield)
 
+
+
 [Final Project&PDF Thesis](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO)
 # Workflow-Function-Container-ACO
 
@@ -36,7 +38,7 @@ We are going to need Maven but this repo does not using Maven
 
 ## Running the tests
 
-We are going to need UnitTest but this repo does not using test
+For future work, We will require Unit/Integrated Test.
 
 ## Builted With
 
@@ -56,12 +58,22 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Arman Riazi** - *Initial work* - [ArmanRiazi](https://github.com/armanriazi/)
 
+# Related Repositories
+
+[Workflow-Function-Container-Plus](https://github.com/armanriazi/Workflow-Function-Container-Plus)
+
+[Cloudsim-Workflow-Function-Container](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container)
+
+[Cloudsim-Workflow-Function-Container-ACO](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO/wiki)
+
 ## License
 
 This project is licensed under the NajafAbad university branch of compuer License - see the [LICENSE.md](LICENSE.md) file for details.
+[Fossa](https://app.fossa.com/reports/3aa0a48c-bec3-42f8-b150-6bc26a0b3c8d)
 *Make it with ❤️ for you
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farmanriazi%2FCloudsim-Workflow-Function-Container-ACO.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Farmanriazi%2FCloudsim-Workflow-Function-Container-ACO?ref=badge_large)
+
 
 ## Acknowledgments
 **
@@ -69,3 +81,5 @@ This project is licensed under the NajafAbad university branch of compuer Licens
 [Workflow-Function-Container-Plus](https://github.com/armanriazi/Workflow-Function-Container-Plus)
 [Cloudsim-Workflow-Function-Container](https://github.com/armanriazi/Cloudsim-Workflow-Function-Container)
 # https://github.com/armanriazi/Cloudsim-Workflow-Function-Container-ACO/wiki
+=======
+
